@@ -20,9 +20,9 @@ let projectName = {
 
 let portfolio = {
     name: "portfolio",
-    thumbnail: "/Brigdene/portfolio/blob/master/assets/images/websiteImgPortfolio.PNG?raw=true",
+    thumbnail: "https://github.com/Brigdene/portfolio/blob/master/assets/images/codeImgPortfolio.PNG?raw=true",
     linkToWebsite: "https://brigdene.github.io/portfolio/",
-    codeThumbnail: "/Brigdene/portfolio/blob/master/assets/images/codeImgPortfolio.PNG?raw=true",
+    codeThumbnail: "/Brigdene/portfolio/blob/master/assets/images/codeImgPortfolio.PNG",
     codeImgIsDark: true,
     downloadableCode: "zip",
     linkToCode: "https://github.com/Brigdene/portfolio",
