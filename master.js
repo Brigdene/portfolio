@@ -21,7 +21,7 @@ let projectName = {
 let portfolio = {
     name: "portfolio",
     thumbnail: "./assets/images/websiteImgPortfolio.png",
-    linkToWebsite: "#",
+    linkToWebsite: "https://brigdene.github.io/portfolio/",
     codeThumbnail: "./assets/images/codeImgPortfolio.png",
     codeImgIsDark: true,
     downloadableCode: "zip",
