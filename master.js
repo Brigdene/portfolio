@@ -25,7 +25,7 @@ let portfolio = {
     codeThumbnail: "./assets/images/codeImgPortfolio.png",
     codeImgIsDark: true,
     downloadableCode: "zip",
-    linkToCode: "#",
+    linkToCode: "https://github.com/Brigdene/portfolio",
     isFinished: true
 }
 
