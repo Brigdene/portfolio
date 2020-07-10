@@ -1,0 +1,50 @@
+h1{
+text-align:center;
+font-size:3vw;
+}
+
+body{
+    background-color:lightblue;
+}
+img{
+    position: relative;
+    position: center;
+    width: 50%;
+    height: auto;
+}
+.imageBox{
+    position: relative;
+    text-align:center;
+    width:25vw;
+    height:auto;
+}
+.textOnImage{
+        position: absolute;
+        bottom: 5%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+      }
+.lightText{
+color:white;
+}
+.flexWrap{
+    display:flex;
+    align-items:center;
+    margin:10px;
+    flex-direction:row;
+    flex-wrap:wrap;
+    text-align:center;
+    justify-content: center;
+}
+.test{
+    align-self:center
+}
+button{
+    border-radius:12px;
+    border-width: 2px;
+    border-color: darkblue;
+    background-color:cyan;
+    font-weight:bold;
+    position:center;
+    margin:15px;
+}
