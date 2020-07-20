@@ -37,7 +37,7 @@ let resume = {
     downloadableCode: "zip",
     linkToCode: "#",
     pdf: null,
-    estimatedFinishTime: "Mon 13/07/2020 at 20:00"
+    estimatedFinishTime: "unknown"
 }
 
 
